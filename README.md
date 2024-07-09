@@ -12,7 +12,7 @@ A fun and interactive music app built with Flutter that lets you play a virtual 
 
 **Screenshot**
 
-![Xylophone App Screenshot](/screenshots/1.png)
+![Xylophone App Screenshot](/screenshots/1.png) (width=200)
 
 **How to Run**
 
